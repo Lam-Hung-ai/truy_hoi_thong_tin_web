@@ -6,4 +6,4 @@ Trường đại học thủy lợi
 Email: 2351260653@e.tlu.edu.vn 
 
 ## 2. Giời thiệu thư viện
-Đây là nơi tôi thực hiện code các hàm được nêu trong tiết học trên lớp tôi học được với môn Truy hồi thông tin và tìm kiếm web của thầy Nguyễn Mạnh Hiện (trường đại học Thủy Lợi)
+Đây là nơi tôi thực hiện code các hàm được nêu trong tiết học trên lớp tôi học được với môn Truy hồi thông tin và tìm kiếm web của thầy Nguyễn Mạnh Hiển (trường đại học Thủy Lợi)
