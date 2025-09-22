@@ -1,0 +1,1 @@
+Xử lý ngôn ngữ tự nhiên (NLP) là một nhánh của AI, cho phép máy tính hiểu và tạo ra ngôn ngữ con người. Ứng dụng gồm dịch máy, chatbot, và phân tích cảm xúc.

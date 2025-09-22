@@ -1,0 +1,1 @@
+Học máy (Machine Learning) là phương pháp giúp máy tính học từ dữ liệu mà không cần lập trình rõ ràng. Thuật toán học máy được ứng dụng rộng rãi trong nhiều lĩnh vực.

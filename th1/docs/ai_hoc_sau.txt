@@ -1,0 +1,1 @@
+Học sâu (Deep Learning) sử dụng mạng nơ-ron nhiều lớp để giải quyết các bài toán phức tạp như nhận diện hình ảnh, giọng nói và xử lý dữ liệu lớn.
